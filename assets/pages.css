@@ -1,0 +1,72 @@
+.article{
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(70, 160, 168);
+    position: absolute;
+    width: 100%;
+    padding: 20px 0px;
+    color: white;
+    bottom: 20px;
+    font-size: 20px;
+}
+
+.contport{
+    margin-top: 220px;
+    height: 860px;
+}
+
+.resim{
+    width: 180px;
+    padding-top: 20px;
+    padding-right: 20px;
+    float: left;
+}
+
+.label{
+    width: 100%;
+    font-family: Verdana, Tahoma, sans-serif, Times, serif;
+    font-size: 17px;
+    line-height: 1.4em;
+    color: rgb(102, 102, 102);
+    display: inline-block;
+    margin-top: 17px;
+    margin-bottom: 7px;
+}
+
+.input{
+    width: 97%;
+    font-family: Verdana, Tahoma, sans-serif, Times, serif;
+    font-size: 14px;
+    line-height: 1.4em;
+    color: rgb(133, 132, 132);
+    padding: 7px;
+}
+
+.btn{
+    background-color: rgb(70, 160, 168);
+    color: white;
+    border: 0;
+    padding: 10px 25px;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.portl{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+
+.portr{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+
+.portresim{
+    width: 273px;
+}
+
+.text{
+    height: 120px;
+}

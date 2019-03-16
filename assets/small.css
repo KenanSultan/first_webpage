@@ -1,0 +1,110 @@
+@media only screen and (max-width: 900px) and (min-width: 600px){
+    .menu{
+        display: inline-block;
+        position: absolute;
+        right: 0px;
+        padding: 33px 0px;
+        top: 0;
+        margin: 0px;
+    }
+    
+    .menuyazi{
+        font-family: Verdana, Tahoma, sans-serif, Times, serif;
+        text-decoration: none;
+        font-size: 18px;
+        color: rgb(102, 102, 102);
+        padding: 4px;
+        border-right: 1px solid #bbb;
+        margin: 15px 0;
+        padding: 0 10px;
+    }
+    
+    .cont{
+        margin: 0 auto;
+        margin-top: 100px;
+    }
+
+    .son{
+        border-bottom: 0;
+    }
+
+    .left{
+        width: 600px;
+        padding: 25px;
+        background-color: white;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .right{
+        padding: 15px;
+        background-color: white;
+        width: 210px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    
+
+    p{
+        padding-top: 10px;
+        margin-top: 2px;
+        font-family: Verdana, Tahoma, sans-serif, Times, serif;
+        font-size: 17px;
+        line-height: 1.4em;
+        color: rgb(102, 102, 102);
+    }
+    
+}
+
+@media only screen and (max-width: 600px){
+    .left{
+        width: 96%;
+        padding: 25px;
+        background-color: white;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .menu{
+        display: inline-block;
+        position: absolute;
+        right: 0px;
+        top: 0;
+        margin: 0 15px;
+    }
+    
+    .menuyazi{
+        font-family: Verdana, Tahoma, sans-serif, Times, serif;
+        text-decoration: none;
+        font-size: 18px;
+        color: rgb(102, 102, 102);
+        display: block;
+        padding: 4px;
+        border-bottom: 1px solid #bbb;
+    }
+    .cont{
+        margin: 0 auto;
+        margin-top: 100px;
+    }
+
+    .son{
+        border-bottom: 0;
+    }
+
+    .right{
+        padding: 15px;
+        background-color: white;
+        width: 210px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    
+
+    p{
+        padding-top: 10px;
+        margin-top: 2px;
+        font-family: Verdana, Tahoma, sans-serif, Times, serif;
+        font-size: 17px;
+        line-height: 1.4em;
+        color: rgb(102, 102, 102);
+    }
+}
